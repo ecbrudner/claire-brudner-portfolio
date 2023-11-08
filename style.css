@@ -1,10 +1,24 @@
 * {
     margin: 0;
-   
 }
 
 header {
     background-color: lightgreen;
+    /* padding: 25px 10px 0px 10px; */
+}
+
+h1{
+    padding: 50px 10px 0px 10px;
+}
+
+nav {
+    font-size: large;
+    padding: 0 10px 25px 0;
+    color: aliceblue;
+}
+
+nav a {
+    padding-right: 10px;
 }
 
 body {
@@ -13,4 +27,15 @@ body {
 
 .right {
     text-align: right;
+}
+
+.subtitle-banner {
+    background-image: url(./IMG_1409.jpeg);
+    height: 200px;
+    color: aliceblue;
+    opacity: 0.85;
+    text-align: center;
+    line-height: 200px;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
