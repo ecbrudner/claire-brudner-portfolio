@@ -3,12 +3,16 @@
 }
 
 header {
-    background-color: lightgreen;
+    background-color: lightskyblue;
     /* padding: 25px 10px 0px 10px; */
 }
 
 h1{
     padding: 50px 10px 0px 10px;
+}
+
+h2 {
+    padding-bottom: 10px;
 }
 
 nav {
@@ -30,12 +34,21 @@ body {
 }
 
 .subtitle-banner {
-    background-image: url(./IMG_1409.jpeg);
+    background-image: url(./images/2018-04-27\ 11:54:26.129.jpg);
+    background-size: 1000px;
     height: 200px;
-    color: aliceblue;
-    opacity: 0.85;
+    color: white;
     text-align: center;
     line-height: 200px;
-    font-size: x-large;
+    font-size: xx-large;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.bio-banner {
+    background-color: lightskyblue;
+    padding: 20px 10px;
+}
+
+.apps-banner {
+    padding: 20px 10px;
 }
