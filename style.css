@@ -105,10 +105,10 @@ img {
     flex-direction: column;
 }
 
-.apps-banner h2 {
+.big-image h2 {
     position: relative;
-    left:55px;
-    top: 20px;
+    right:600px;
+    top: 15px;
     font-size: 30px;
 }
 
