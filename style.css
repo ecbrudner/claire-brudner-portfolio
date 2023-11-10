@@ -54,6 +54,7 @@ img {
     background-size: 100%;
     height: 200px;
     width: 100%;
+    
 }
 
 .subtitle-banner h2 {
@@ -75,6 +76,7 @@ img {
 .image-container {
     max-width:30rem;
     min-width: 10rem;
+    
 }
 
 .image-container h2 {
