@@ -1,5 +1,6 @@
 # Claire-Brudner-Portfolio
 https://ecbrudner.github.io/claire-brudner-portfolio/
+![claire_portfolio_screenshot html](https://github.com/ecbrudner/claire-brudner-portfolio/assets/148579054/6b886647-d676-4a3d-89ea-d2ca67985fe1)
 
 ## Description
 I created this page to serve as a portfolio of my work as a web developer. This page will be a resource I can share with potential employers and peers as I grow in my web development career. This page includes my picture, some basic info about me, links to my deployed work and my contact info.
